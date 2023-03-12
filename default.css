@@ -25,7 +25,7 @@ a:hover {
 
 #header {
 	padding: 1em;
-	background: #4169E1;
+	background: #FFFFCC;
 	border-bottom: 2px solid #FF6600;
 }
 
@@ -85,6 +85,7 @@ a:hover {
 	width: 700px;
 	margin: 0px auto;
 	padding: 2em;
+	background: #000080;
 }
 
 #columnA {
