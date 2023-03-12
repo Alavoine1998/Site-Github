@@ -10,11 +10,11 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-weight: normal;
 	font-style: italic;
-	color: #E6E6FA;
+	color: #FF6600;
 }
 
 a {
-	color: #000080;
+	color: #FF6600;
 }
 
 a:hover {
@@ -25,7 +25,7 @@ a:hover {
 
 #header {
 	padding: 1em;
-	background: #4169E1;
+	background: #FFFFCC;
 	border-bottom: 2px solid #FF6600;
 }
 
