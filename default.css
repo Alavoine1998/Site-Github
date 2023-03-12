@@ -76,7 +76,7 @@ a:hover {
 
 #menu a:hover {
 	background: #FF6600;
-	color: #FFFFFF;
+	color: #000080;
 }
 
 /** CONTENT */
@@ -85,7 +85,6 @@ a:hover {
 	width: 700px;
 	margin: 0px auto;
 	padding: 2em;
-	background: #000080;
 }
 
 #columnA {
